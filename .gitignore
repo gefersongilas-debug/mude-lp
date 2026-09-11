@@ -1,0 +1,14 @@
+.next/
+node_modules/
+.DS_Store
+*.log
+
+# Materiais de referência locais, fora do bundle da landing page
+/AGENTS.md
+/CLAUDE.md
+/Briefing e Planejamento - MUDE - Setembro 2026.md
+/KV.png
+/Section 1.png
+/Tour *.png
+/PLACEHOLDER*.png
+/public/images/*.jpg
