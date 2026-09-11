@@ -2,7 +2,7 @@
 const nextConfig = {
   reactStrictMode: true,
   turbopack: {
-    root: "/Users/tiagocasasburger/V4/MUDE",
+    root: process.cwd(),
   },
 };
 
